@@ -33,4 +33,3 @@
  <h2>Confirm Installation:</h2>
      After each installation command, ensure there are no errors reported. You may also want to check the versions installed using:
      pip show <library_name>
-      
